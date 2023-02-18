@@ -27,8 +27,11 @@ The project includes a Jupyter notebook that provides a step-by-step guide on ho
 
 ### Content Image:
 <img width="295" height="295" alt="content_image5" src="https://user-images.githubusercontent.com/95233156/219867550-e05216ca-9b25-4dbd-930f-205eeef26b59.jpg">
-<!-- ![content_image5](https://user-images.githubusercontent.com/95233156/219867550-e05216ca-9b25-4dbd-930f-205eeef26b59.jpg) -->
 ### Style Images:
+<img width="400" height="295" alt="style_image12" src="https://user-images.githubusercontent.com/95233156/219867466-2c57eceb-126c-4535-9a03-b80dc529c0e6.jpg">
+<img width="400" height="295" alt="style_image9" src="https://user-images.githubusercontent.com/95233156/219867515-d4c75e9c-14c6-4992-bc11-d345332f8faa.jpg">
+<img width="400" height="295" alt="style_image7" src="https://user-images.githubusercontent.com/95233156/219867570-1a08447d-57ca-49b9-b68f-f3d55c4433a5.jpg">
+<img width="400" height="295" alt="style_image4" src="https://user-images.githubusercontent.com/95233156/219867780-18818d63-e4a3-480b-9897-044d63d5d51e.jpg">
 ![style_image12](https://user-images.githubusercontent.com/95233156/219867466-2c57eceb-126c-4535-9a03-b80dc529c0e6.jpg)
 ![style_image9](https://user-images.githubusercontent.com/95233156/219867515-d4c75e9c-14c6-4992-bc11-d345332f8faa.jpg)
 ![style_image7](https://user-images.githubusercontent.com/95233156/219867570-1a08447d-57ca-49b9-b68f-f3d55c4433a5.jpg)
