@@ -26,7 +26,7 @@ The project includes a Jupyter notebook that provides a step-by-step guide on ho
 # Sample Outputs For the below Content Image 
 
 ### Content Image:
-<img width="295" alt="content_image5" src="https://user-images.githubusercontent.com/95233156/219867550-e05216ca-9b25-4dbd-930f-205eeef26b59.jpg">
+<img width="295" height="295" alt="content_image5" src="https://user-images.githubusercontent.com/95233156/219867550-e05216ca-9b25-4dbd-930f-205eeef26b59.jpg">
 <!-- ![content_image5](https://user-images.githubusercontent.com/95233156/219867550-e05216ca-9b25-4dbd-930f-205eeef26b59.jpg) -->
 ### Style Images:
 ![style_image12](https://user-images.githubusercontent.com/95233156/219867466-2c57eceb-126c-4535-9a03-b80dc529c0e6.jpg)
