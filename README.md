@@ -28,11 +28,12 @@ The project includes a Jupyter notebook that provides a step-by-step guide on ho
 ### Content Image:
 <img width="295" height="295" alt="content_image5" src="https://user-images.githubusercontent.com/95233156/219867550-e05216ca-9b25-4dbd-930f-205eeef26b59.jpg">
 ### Style Images:
+<div style='float'>
 <img width="400" height="295" alt="style_image12" src="https://user-images.githubusercontent.com/95233156/219867466-2c57eceb-126c-4535-9a03-b80dc529c0e6.jpg">
 <img width="400" height="295" alt="style_image9" src="https://user-images.githubusercontent.com/95233156/219867515-d4c75e9c-14c6-4992-bc11-d345332f8faa.jpg">
+</div>
 <img width="400" height="295" alt="style_image7" src="https://user-images.githubusercontent.com/95233156/219867570-1a08447d-57ca-49b9-b68f-f3d55c4433a5.jpg">
 <img width="400" height="295" alt="style_image4" src="https://user-images.githubusercontent.com/95233156/219867780-18818d63-e4a3-480b-9897-044d63d5d51e.jpg">
-![style_image4]([image1.png](https://user-images.githubusercontent.com/95233156/219867780-18818d63-e4a3-480b-9897-044d63d5d51e.jpg) "title-1") ![alt-text-2]([image2.png](https://user-images.githubusercontent.com/95233156/219867780-18818d63-e4a3-480b-9897-044d63d5d51e.jpg) "title-2")
 ### Output Images:
 <img width="295" alt="Screenshot 2023-02-17 at 4 47 32 PM" src="https://user-images.githubusercontent.com/95233156/219867641-c1b00461-2a35-4e06-83de-42ed2bae0fb4.png">
 <img width="292" alt="Screenshot 2023-02-17 at 4 24 39 PM" src="https://user-images.githubusercontent.com/95233156/219867703-45d566f8-f4b5-4ba6-91eb-cb4072929dbd.png">
